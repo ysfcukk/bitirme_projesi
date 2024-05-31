@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/noamsegal/affectnet-training-data (affectnet)
+https://www.kaggle.com/datasets/shuvoalok/raf-db-dataset (rafdb)
